@@ -1,0 +1,36 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+title{
+    color: black;
+    font: 50px;
+
+}
+
+p{
+    color: #777777;
+    font: 30px;
+
+}
+
+body{
+    background-color: #533b3b;
+    width: 960px;
+    height: 960px;
+    margin:
+    color:
+    padding:
+    border-style:
+    border-width:
+    border-color: #cccccc;
+}
+
+#box{
+
+}
+
+div{
+    width: 300px;
+    border: 15px; 
+    padding: 50px;
+    margin: 20px;
+}
