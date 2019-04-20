@@ -5,6 +5,7 @@ title{
 
 header{
     background: #ffffff;
+    border-color: #cccccc
 }
 
 p{
@@ -85,7 +86,6 @@ li:hover{
 }
 
 .footer{
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -108,7 +108,7 @@ li:hover{
     width: 80%;
     float: right;
     position: relative;
-    padding: 0px;
+    padding: 5px;
 }
 
 #bio-image{
