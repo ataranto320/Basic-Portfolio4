@@ -29,6 +29,12 @@ h2{
     width: 90px;
 }
 
+hr{
+    height: 0px;
+    border: solid;
+    color: #dddddd;
+}
+
 img{
     height: 175px;
     width: 175px;

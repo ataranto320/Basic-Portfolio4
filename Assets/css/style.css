@@ -77,6 +77,12 @@ li{
     text-align: center;
 }
 
+hr{
+    height: 0px;
+    border: solid;
+    color: #dddddd;
+}
+
 li:hover{
 
 }

@@ -24,6 +24,12 @@ h2{
     width: 90px;
 }
 
+hr{
+    height: 0px;
+    border: solid;
+    color: #dddddd;
+}
+
 body{
     font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 960px;
