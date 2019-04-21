@@ -15,6 +15,10 @@ h1{
     border-style: solid;
 }
 
+.container{
+    position: center;
+}
+
 body{
     font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 960px;
@@ -39,6 +43,18 @@ img{
     height: 175px;
     width: 175px;
     padding: 10px;
+}
+
+.container{
+    position: relative;
+    text-align: center;
+    color:#777777;
+}
+
+.bottom{
+    position: absolute;
+    top: 2px;
+    bottom: 2px;
 }
 
 .footer{
